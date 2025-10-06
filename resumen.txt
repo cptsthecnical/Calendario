@@ -1,8 +1,8 @@
-L - A pi-Pb 80%
-M - cam ingl 20%
-M - A pi-Pb 70%
-J - cam ingl-mil 20%
-V - A C pi - cam 100%
-S - Pb s.ejer - cam 100%
-D - C pi - cam 70-80%
+1 - A pi-Pb 80%
+2 - cam- ingl 20%
+3 - A pi-Pb 70%
+4 - cam- ingl-mil 20%
+5 - A pi C ~ cam- 100%
+6 - Pb sim.ejer - cam+ 100%
+7 - C pi - cam+ 70-80%
 s.1 s.2 s.3 s.4
