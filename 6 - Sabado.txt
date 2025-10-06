@@ -2,7 +2,7 @@
 [Deporte]:
 # inicio ~ 12:00
 # coste real de los ejercicios ~ 1:10
-# yoga, abdominales y cardio
+# fuerza de brazo
 
 ## ⏱️ 12:00
 #  entrenamiento flexibilidad: 1 única sesión
