@@ -2,7 +2,7 @@
 [Deporte]:
 # inicio ~ 17:00
 # coste real de los ejercicios ~ 1:00
-# yoga, abdominales y cardio
+# abdominales y cardio
 
 ## ⏱️ 00:05
 # estiramiento piernas: 1 única sesión
