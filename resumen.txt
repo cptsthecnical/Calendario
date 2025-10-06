@@ -5,3 +5,4 @@ J - cam ingl-mil 20%
 V - A C pi - cam 100%
 S - Pb s.ejer - cam 100%
 D - C pi - cam 70-80%
+s.1 s.2 s.3 s.4
