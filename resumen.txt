@@ -2,9 +2,9 @@
 2 - cam - ingl 20%
 3 - A pi-Pb 70% optN 40
 4 - cam- ingl-mil 20%
-5 - A pi (C/N) | cam- 100% 1
+5 - A pi (C/N) | cam- 100% +1
 6 - Pb sim.ejer | cam+ 100% 1 + s.tir
-7 - A pi C | cam+ 70-80% 1
+7 - A pi C | cam+ 70-80% +1
 
 s.1 s.2 s.3 s.4
 plat - dep - zzz9
