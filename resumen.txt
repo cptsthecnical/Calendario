@@ -2,7 +2,7 @@
 2 - cam- ingl 20%
 3 - A pi-Pb 70%
 4 - cam- ingl-mil 20%
-5 - A pi C ~ cam- 100%
+5 - A pi (C/N) ~ cam- 100%
 6 - Pb sim.ejer - cam+ 100%
 7 - C pi - cam+ 70-80%
 s.1 s.2 s.3 s.4
