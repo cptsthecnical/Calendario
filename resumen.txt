@@ -1,7 +1,7 @@
-L - A pi-Pb
-M - cam ingl
-M - A pi-Pb
-J - cam ingl-mil
-V - A C pi - cam
-S - Pb s.ejer - cam
-D - C pi - cam
+L - A pi-Pb 80%
+M - cam ingl 20%
+M - A pi-Pb 70%
+J - cam ingl-mil 20%
+V - A C pi - cam 100%
+S - Pb s.ejer - cam 100%
+D - C pi - cam 70-80%
