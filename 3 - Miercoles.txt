@@ -2,7 +2,7 @@
 [Deporte]:
 # inicio ~ 17:00
 # coste real de los ejercicios ~ 1:00
-# piernas y abdominales
+# piernas y abdominales (!fuerza de brazo)
 
 ## ⏱️ 00:05
 # estiramiento piernas: 1 única sesión
@@ -27,6 +27,7 @@ https://www.youtube.com/watch?v=SaZczaaDob0
 # Josef ajraf - Ejercicios Semana 2
 [Ir al enlace]👇
 https://www.youtube.com/watch?v=6zb2Dca6_-o&list=PLLUJ_eosHeXIkYFbaIwWt5hXiXAw_cDEy&index=2
+#! en los camios de espera entre sesiones hacer fuerza de brazo
 
 ===========================================================================================
 [Alimentación]:
