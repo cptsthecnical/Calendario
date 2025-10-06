@@ -2,7 +2,7 @@
 [Deporte]:
 # inicio ~ 17:00
 # coste real de los ejercicios ~ 1:00
-# flexibilidad y abdominales
+# flexibilidad y abdominales (!brazo)
 
 ## ⏱️ 30:00
 #  entrenamiento flexibilidad: 1 única sesión
@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=mnTAxW1lOd4&list=PLLUJ_eosHeXKDjtgchiBwYGz7VcyPc
 # Josef ajraf - Ejercicios Semana 7
 [Ir al enlace]👇
 https://www.youtube.com/watch?v=i1YhOD4L4NU&list=PLLUJ_eosHeXIkYFbaIwWt5hXiXAw_cDEy&index=9
+#! en los camios de espera entre sesiones hacer fuerza de brazo
 
 ===========================================================================================
 [Alimentación]:
