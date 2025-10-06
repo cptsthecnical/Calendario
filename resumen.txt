@@ -7,3 +7,4 @@
 7 - C pi | cam+ 70-80%
 
 s.1 s.2 s.3 s.4
+plat - dep - zzz
