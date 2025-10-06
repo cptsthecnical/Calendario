@@ -2,6 +2,6 @@ L - A pi-Pb
 M - cam ingl
 M - A pi-Pb
 J - cam ingl-mil
-V - A C pi
-S - Pb s.ejer
-D - C pi 
+V - A C pi - cam
+S - Pb s.ejer - cam
+D - C pi - cam
