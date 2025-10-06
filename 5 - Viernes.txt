@@ -2,7 +2,7 @@
 [Deporte]:
 # inicio ~ 17:00
 # coste real de los ejercicios ~ 1:10
-# yoga, abdominales y cardio
+# yoga, abdominales y cardio · nota de esfuerzo: 💪 16/20
 
 ## ⏱️ 12:00 [💪]
 # estiramiento yoga: 1 única sesión
