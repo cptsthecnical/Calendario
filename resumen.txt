@@ -1,7 +1,7 @@
 L - A pi-Pb
-M - 
+M - cam ingl
 M - A pi-Pb
-J - 
+J - cam ingl-mil
 V - A C pi
 S - Pb s.ejer
 D - C pi 
