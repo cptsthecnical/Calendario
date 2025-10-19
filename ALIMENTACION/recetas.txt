@@ -7,106 +7,245 @@
 ✅ Carbohidratos complejos: avena, arroz, pasta integral, pan integral, boniato.
 
 
-===============================================================
-[🥑 Tacos vegetarianos con “carne” de lentejas trituradas]:
-Ingredientes (2 raciones):
-  6 tortillas de maíz o trigo
-  1 taza de lentejas cocidas
-  ½ cebolla
-  1 diente de ajo
-  1 cdita de comino
-  1 cdita de pimentón
-  2 cdas de salsa de soja
-  1 cda de aceite de oliva
-  Guarnición: aguacate, tomate, lechuga, yogur o salsa picante
-
-Preparación:
-  Sofríe cebolla y ajo picados con el aceite.
-  Añade las lentejas cocidas y aplástalas con una espátula (o pásalas por la batidora unos segundos para que queden como una masa grumosa).
-  Agrega comino, pimentón y salsa de soja; cocina 5 min.
-  Calienta las tortillas y rellénalas con la mezcla.
-  Añade toppings (aguacate, tomate, yogur vegetal…).
-
+# RECETAS VEGETARIANAS ORGANIZADAS POR CATEGORÍA
 
 ===============================================================
-[🍝 Pasta cremosa con salsa de “lentejas escondidas”]:
-Ingredientes:
-  150 g de pasta integral
-  ½ taza de lentejas cocidas
-  1 zanahoria
-  ½ cebolla
-  1 diente de ajo
-  200 ml de tomate triturado
-  1 cda de aceite de oliva
-  Hierbas italianas (orégano, albahaca)
+🥗 ENSALADAS Y BOWLS
 
-Preparación:
-  Sofríe cebolla, ajo y zanahoria picados.
-  Añade las lentejas y el tomate. Cocina 10 min.
-  Tritura todo con batidora hasta lograr una salsa cremosa.
-  Mezcla con la pasta cocida y un poco de agua de cocción.
-  💡 Extra proteína: añade levadura nutricional o tofu desmenuzado.
-
-
-===============================================================
-[🍳 Revuelto de tofu con verduras]:
-Ingredientes:
-  200 g de tofu firme
-  ½ pimiento rojo
-  ½ cebolla
-  Cúrcuma, sal, pimienta
-  1 cda de aceite de oliva
-  (Opcional) salsa de soja o levadura nutricional
-
-Preparación:
-  Desmenuza el tofu con un tenedor.
-  Sofríe las verduras.
-  Añade el tofu y las especias, cocina 5–7 min hasta que tome color.
-  Sirve con pan integral o aguacate.
-
-
-===============================================================
 [🥗 Bowl energético de quinoa con hummus y vegetales]:
 Ingredientes:
   1 taza de quinoa cocida
   ½ taza de hummus
   Verduras variadas (espinaca, tomate, pepino, zanahoria rallada)
   1 cda de aceite de oliva y limón
-
 Preparación:
   Cocina la quinoa (2 partes de agua por 1 de quinoa, 15 min).
-  Colócala en un bowl, añade las verduras y una buena cucharada de hummus.
+  Colócala en un bowl, añade las verduras y hummus.
   Aliña con aceite y limón.
 
+[1️⃣ Ensalada templada de quinoa, calabaza y espinacas]:
+Ingredientes:
+  1 taza de quinoa cocida
+  300 g calabaza al horno
+  100 g espinacas frescas
+  1 cda aceite de oliva
+  1 cdita comino, sal y pimienta
+  2 cdas de hummus
+Preparación:
+  Asa la calabaza en cubos con aceite, comino, sal y pimienta 20 min a 200 °C.
+  Mezcla la quinoa, espinacas y calabaza asada.
+  Añade hummus y mezcla bien antes de servir.
+
+[2️⃣ Buddha bowl con arroz integral y “pollo” vegetal]:
+Ingredientes:
+  1 taza de arroz integral cocido
+  100 g soja texturizada rehidratada y triturada
+  1 zanahoria rallada, ½ pepino, ½ pimiento rojo
+  Aliño: tahini + limón + agua
+Preparación:
+  Cocina el arroz y la soja texturizada con salsa de soja y especias.
+  Coloca arroz en un bowl, añade verduras y soja.
+  Aliña con tahini y limón.
+
+[3️⃣ Ensalada mediterránea con hummus]:
+Ingredientes:
+  100 g lechuga, rúcula y espinaca
+  ½ taza de hummus
+  1 tomate, ½ pepino
+  Aceite de oliva y vinagre
+Preparación:
+  Pica todas las verduras y mezcla en un bowl.
+  Añade el hummus como topping.
+  Aliña y sirve.
 
 ===============================================================
-[🍫 Batido post-entreno alto en proteínas (sin proteína en polvo)]:
+🍝 PASTAS Y CEREALES
+
+[🥑 Tacos vegetarianos con “carne” de lentejas trituradas]:
+Ingredientes:
+  6 tortillas de maíz o trigo
+  1 taza de lentejas cocidas
+  ½ cebolla
+  1 diente de ajo
+  1 cdita comino
+  1 cdita pimentón
+  2 cdas salsa de soja
+  1 cda aceite de oliva
+  Guarnición: aguacate, tomate, lechuga, yogur o salsa picante
+Preparación:
+  Sofríe cebolla y ajo picados con el aceite.
+  Añade las lentejas cocidas y aplástalas con espátula o batidora.
+  Agrega comino, pimentón y salsa de soja; cocina 5 min.
+  Calienta las tortillas y rellénalas con la mezcla.
+  Añade toppings.
+
+[🍝 Pasta cremosa con salsa de “lentejas escondidas”]:
+Ingredientes:
+  150 g pasta integral
+  ½ taza lentejas cocidas
+  1 zanahoria
+  ½ cebolla
+  1 diente de ajo
+  200 ml tomate triturado
+  1 cda aceite de oliva
+  Hierbas italianas
+Preparación:
+  Sofríe cebolla, ajo y zanahoria picados.
+  Añade las lentejas y el tomate. Cocina 10 min.
+  Tritura hasta lograr salsa cremosa.
+  Mezcla con la pasta cocida y un poco de agua de cocción.
+  Añade levadura nutricional o tofu desmenuzado.
+
+[4️⃣ Pasta integral con salsa de tomate y tofu]:
+Ingredientes:
+  150 g pasta integral
+  100 g tofu firme desmenuzado
+  200 ml tomate triturado
+  ½ cebolla, 1 diente de ajo
+  Orégano, albahaca, sal, pimienta
+Preparación:
+  Sofríe cebolla y ajo, añade tofu y tomate.
+  Cocina 10 min, añade especias.
+  Mezcla con pasta cocida.
+
+[5️⃣ Risotto de quinoa y verduras]:
+Ingredientes:
+  1 taza quinoa
+  1 zanahoria, ½ pimiento rojo, ½ calabacín
+  1 cda aceite de oliva, sal, pimienta
+  50 ml leche vegetal
+Preparación:
+  Saltea las verduras.
+  Añade quinoa y agua o caldo.
+  Cocina 15 min, añade leche vegetal para cremosidad.
+
+[6️⃣ Arroz al curry con verduras y lentejas trituradas]:
+Ingredientes:
+  1 taza arroz integral cocido
+  ½ taza lentejas cocidas trituradas
+  1 taza verduras (zanahoria, calabacín, pimiento)
+  1 cdita curry, 1 cda aceite
+Preparación:
+  Sofríe verduras con curry.
+  Añade lentejas trituradas y arroz, mezcla y cocina 5 min.
+
+===============================================================
+🍳 REVUELTOS Y DESAYUNOS SALADOS
+
+[🍳 Revuelto de tofu con verduras]:
+Ingredientes:
+  200 g tofu firme
+  ½ pimiento rojo
+  ½ cebolla
+  Cúrcuma, sal, pimienta
+  1 cda aceite de oliva
+  Opcional: salsa de soja o levadura nutricional
+Preparación:
+  Desmenuza tofu con tenedor.
+  Sofríe verduras.
+  Añade tofu y especias, cocina 5–7 min.
+  Sirve con pan integral o aguacate.
+
+[1️⃣ Revuelto de huevo y espinacas]:
+Ingredientes:
+  2 huevos
+  50 g espinacas
+  ½ pimiento
+  Sal, pimienta, aceite de oliva
+Preparación:
+  Sofríe el pimiento, añade espinacas.
+  Bate huevos y añade al sartén, cocina 3-4 min.
+
+[2️⃣ Tostadas de aguacate con tofu]:
+Ingredientes:
+  2 rebanadas pan integral
+  100 g tofu desmenuzado
+  ½ aguacate
+  Sal, pimienta, limón
+Preparación:
+  Tuesta el pan.
+  Machaca aguacate, mezcla con tofu, sal y limón.
+  Unta sobre el pan.
+
+[3️⃣ Tortilla de avena y verduras]:
+Ingredientes:
+  3 cdas avena
+  2 huevos
+  ½ calabacín rallado, ½ zanahoria rallada
+  Sal, pimienta
+Preparación:
+  Mezcla todos los ingredientes.
+  Cocina en sartén antiadherente 4–5 min por lado.
+
+===============================================================
+🥑 SNACKS Y BATIDOS
+
+[🍫 Batido post-entreno alto en proteínas]:
 Ingredientes:
   1 plátano
-  2 cdas de avena
-  2 cdas de mantequilla de maní o almendra
-  1 cda de cacao puro
-  1 taza de bebida vegetal (soja o avena)
-  1 cda de semillas de chía o lino molido
-
+  2 cdas avena
+  2 cdas mantequilla de maní o almendra
+  1 cda cacao puro
+  1 taza bebida vegetal
+  1 cda semillas de chía o lino molido
 Preparación:
-  Tritura todo hasta obtener un batido espeso y cremoso.
+  Tritura todo hasta obtener batido cremoso.
 
+[1️⃣ Batido verde energizante]:
+Ingredientes:
+  1 plátano
+  1 taza espinaca
+  1 cda mantequilla de almendra
+  1 taza bebida vegetal
+Preparación:
+  Tritura todo hasta obtener batido cremoso.
 
-===============================================================
-[🥑 Tacos vegetarianos con “carne” de lentejas trituradas]:
+[2️⃣ Hummus de pimiento rojo]:
+Ingredientes:
+  1 taza garbanzos cocidos
+  1 pimiento rojo asado
+  1 cda tahini, 1 cda aceite de oliva, sal, limón
+Preparación:
+  Tritura todos los ingredientes hasta lograr crema.
+  Sirve con palitos de verdura.
 
+[3️⃣ Barritas de avena y frutos secos]:
+Ingredientes:
+  2 tazas avena
+  ½ taza nueces o almendras
+  2 cdas mantequilla de cacahuete
+  2 cdas miel
+Preparación:
+  Mezcla todo, coloca en molde y hornea 15 min a 180 °C.
+  Corta en barritas.
 
+[4️⃣ Smoothie bowl de frutos rojos]:
+Ingredientes:
+  1 taza frutos rojos
+  1 plátano
+  ½ taza bebida vegetal
+  2 cdas avena, semillas a elección
+Preparación:
+  Tritura frutos rojos, plátano y bebida vegetal.
+  Sirve en bowl con avena y semillas.
 
-===============================================================
-[🥑 Tacos vegetarianos con “carne” de lentejas trituradas]:
+[5️⃣ Crema de calabaza con lentejas trituradas]:
+Ingredientes:
+  500 g calabaza
+  ½ taza lentejas cocidas trituradas
+  1 cdita curry, sal, pimienta
+  1 cda aceite
+Preparación:
+  Cocina la calabaza y lentejas hasta blandas.
+  Tritura hasta obtener crema.
+  Sirve caliente.
 
-
-
-===============================================================
-[🥑 Tacos vegetarianos con “carne” de lentejas trituradas]:
-
-
-
-===============================================================
-[🥑 Tacos vegetarianos con “carne” de lentejas trituradas]:
+[6️⃣ Wraps de verduras y tofu]:
+Ingredientes:
+  2 tortillas de trigo
+  100 g tofu firme desmenuzado
+  ½ zanahoria rallada, lechuga, tomate
+  Salsa de yogur vegetal o hummus
+Preparación:
+  Coloca todos los ingredientes sobre la tortilla.
+  Enrolla y sirve.
