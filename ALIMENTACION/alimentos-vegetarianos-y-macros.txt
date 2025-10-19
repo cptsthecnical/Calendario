@@ -1,0 +1,169 @@
+=====================================================================================
+🥦 Verduras y Hortalizas
+| Alimento         | Calorías | Proteínas | Carbohidratos | Grasas |
+| ---------------- | -------- | --------- | ------------- | ------ |
+| Acelga           | 29 kcal  | 2.0 g     | 4.0 g         | 0.3 g  |
+| Alcachofa        | 47 kcal  | 3.3 g     | 10.5 g        | 0.2 g  |
+| Apio             | 16 kcal  | 0.7 g     | 3.7 g         | 0.2 g  |
+| Berenjena        | 25 kcal  | 1.0 g     | 6.0 g         | 0.2 g  |
+| Brócoli          | 34 kcal  | 2.8 g     | 6.6 g         | 0.4 g  |
+| Calabacín        | 17 kcal  | 1.2 g     | 3.1 g         | 0.3 g  |
+| Calabaza         | 26 kcal  | 1.0 g     | 6.5 g         | 0.1 g  |
+| Cebolla          | 40 kcal  | 1.1 g     | 9.3 g         | 0.1 g  |
+| Champiñones      | 22 kcal  | 3.1 g     | 3.3 g         | 0.3 g  |
+| Coliflor         | 25 kcal  | 1.9 g     | 5.0 g         | 0.3 g  |
+| Espárragos       | 20 kcal  | 2.2 g     | 3.7 g         | 0.2 g  |
+| Espinaca         | 23 kcal  | 2.9 g     | 3.6 g         | 0.4 g  |
+| Guisantes verdes | 81 kcal  | 5.4 g     | 14.5 g        | 0.4 g  |
+| Judías verdes    | 35 kcal  | 2.4 g     | 7.0 g         | 0.2 g  |
+| Lechuga          | 15 kcal  | 1.4 g     | 2.9 g         | 0.2 g  |
+| Pimiento rojo    | 31 kcal  | 1.0 g     | 6.0 g         | 0.3 g  |
+| Puerro           | 61 kcal  | 1.5 g     | 14.0 g        | 0.3 g  |
+| Remolacha        | 43 kcal  | 1.6 g     | 9.6 g         | 0.2 g  |
+| Tomate           | 18 kcal  | 0.9 g     | 3.9 g         | 0.2 g  |
+| Zanahoria        | 41 kcal  | 0.9 g     | 9.6 g         | 0.2 g  |
+
+=====================================================================================
+🍎 Frutas
+| Alimento    | Calorías | Proteínas | Carbohidratos | Grasas |
+| ----------- | -------- | --------- | ------------- | ------ |
+| Manzana     | 52 kcal  | 0.3 g     | 14 g          | 0.2 g  |
+| Pera        | 57 kcal  | 0.4 g     | 15 g          | 0.1 g  |
+| Plátano     | 89 kcal  | 1.1 g     | 23 g          | 0.3 g  |
+| Naranja     | 47 kcal  | 0.9 g     | 12 g          | 0.1 g  |
+| Mandarina   | 53 kcal  | 0.8 g     | 13 g          | 0.3 g  |
+| Fresas      | 32 kcal  | 0.7 g     | 7.7 g         | 0.3 g  |
+| Arándanos   | 57 kcal  | 0.7 g     | 14 g          | 0.3 g  |
+| Frambuesas  | 52 kcal  | 1.2 g     | 12 g          | 0.7 g  |
+| Mora        | 43 kcal  | 1.4 g     | 10 g          | 0.5 g  |
+| Kiwi        | 61 kcal  | 1.1 g     | 15 g          | 0.5 g  |
+| Mango       | 60 kcal  | 0.8 g     | 15 g          | 0.4 g  |
+| Piña        | 50 kcal  | 0.5 g     | 13 g          | 0.1 g  |
+| Melón       | 34 kcal  | 0.8 g     | 8 g           | 0.2 g  |
+| Sandía      | 30 kcal  | 0.6 g     | 8 g           | 0.2 g  |
+| Uva         | 69 kcal  | 0.7 g     | 18 g          | 0.2 g  |
+| Cereza      | 50 kcal  | 1.0 g     | 12 g          | 0.3 g  |
+| Granada     | 83 kcal  | 1.7 g     | 19 g          | 1.2 g  |
+| Ciruela     | 46 kcal  | 0.7 g     | 11 g          | 0.3 g  |
+| Albaricoque | 48 kcal  | 0.5 g     | 11 g          | 0.4 g  |
+| Higo        | 74 kcal  | 0.8 g     | 19 g          | 0.3 g  |
+
+=====================================================================================
+🌾 Cereales, semillas y frutos secos
+| Alimento                  | Calorías | Proteínas | Carbohidratos | Grasas |
+| ------------------------- | -------- | --------- | ------------- | ------ |
+| Avena (seca)              | 389 kcal | 16.9 g    | 66 g          | 6.9 g  |
+| Arroz integral (crudo)    | 365 kcal | 7.5 g     | 77 g          | 2.7 g  |
+| Quinoa (cruda)            | 368 kcal | 14 g      | 64 g          | 6.1 g  |
+| Trigo sarraceno (crudo)   | 343 kcal | 13.3 g    | 71.5 g        | 3.4 g  |
+| Pan integral (1 rebanada) | 69 kcal  | 3.5 g     | 12 g          | 1 g    |
+| Semillas de chía          | 486 kcal | 16.5 g    | 42 g          | 31 g   |
+| Semillas de lino          | 534 kcal | 18.3 g    | 29 g          | 42 g   |
+| Semillas de girasol       | 584 kcal | 20.8 g    | 20 g          | 51 g   |
+| Semillas de calabaza      | 559 kcal | 30 g      | 10.7 g        | 49 g   |
+| Almendras                 | 579 kcal | 21 g      | 22 g          | 50 g   |
+| Nueces                    | 654 kcal | 15 g      | 14 g          | 65 g   |
+| Avellanas                 | 628 kcal | 15 g      | 17 g          | 61 g   |
+| Anacardos                 | 553 kcal | 18 g      | 30 g          | 44 g   |
+| Pistachos                 | 562 kcal | 20 g      | 28 g          | 45 g   |
+| Cacahuetes                | 567 kcal | 25 g      | 16 g          | 49 g   |
+
+=====================================================================================
+🥫 Legumbres y derivados
+| Alimento             | Calorías | Proteínas | Carbohidratos | Grasas |
+| -------------------- | -------- | --------- | ------------- | ------ |
+| Lentejas cocidas     | 116 kcal | 9 g       | 20 g          | 0.4 g  |
+| Garbanzos cocidos    | 164 kcal | 8.9 g     | 27 g          | 2.6 g  |
+| Judías / Frijoles    | 127 kcal | 8.7 g     | 23 g          | 0.5 g  |
+| Guisantes cocidos    | 81 kcal  | 5.4 g     | 14.5 g        | 0.4 g  |
+| Soja cocida          | 172 kcal | 16 g      | 9.9 g         | 9 g    |
+| Tempeh               | 193 kcal | 19 g      | 9.4 g         | 11 g   |
+| Tofu firme           | 76 kcal  | 8 g       | 1.9 g         | 4.8 g  |
+| Tofu sedoso / blando | 55 kcal  | 5.3 g     | 1.2 g         | 3 g    |
+| Hummus               | 166 kcal | 7.9 g     | 14 g          | 10 g   |
+| Edamame              | 121 kcal | 11 g      | 8.9 g         | 5 g    |
+| Harina de garbanzo   | 387 kcal | 22 g      | 58 g          | 6 g    |
+| Lentejas rojas secas | 358 kcal | 26 g      | 60 g          | 1 g    |
+| Alubias negras secas | 341 kcal | 21 g      | 62 g          | 1.5 g  |
+
+=====================================================================================
+🥜 Frutos Secos y Semillas
+| Alimento             | Calorías | Proteínas | Carbohidratos | Grasas |
+| -------------------- | -------- | --------- | ------------- | ------ |
+| Almendras            | 579 kcal | 21.2 g    | 21.6 g        | 49.9 g |
+| Anacardos            | 553 kcal | 18.2 g    | 30.2 g        | 43.9 g |
+| Avellanas            | 628 kcal | 14.1 g    | 16.7 g        | 60.8 g |
+| Castañas             | 213 kcal | 2.4 g     | 45.0 g        | 2.2 g  |
+| Maní (cacahuete)     | 567 kcal | 25.8 g    | 16.1 g        | 49.2 g |
+| Nueces               | 654 kcal | 15.2 g    | 13.7 g        | 65.2 g |
+| Piñones              | 673 kcal | 13.7 g    | 13.1 g        | 68.0 g |
+| Pistachos            | 562 kcal | 20.2 g    | 28.0 g        | 45.3 g |
+| Semillas de chía     | 486 kcal | 16.5 g    | 42.1 g        | 30.7 g |
+| Semillas de calabaza | 559 kcal | 29.8 g    | 10.7 g        | 49.0 g |
+| Semillas de girasol  | 584 kcal | 20.8 g    | 20.0 g        | 51.5 g |
+| Semillas de lino     |          |           |               |        |
+
+=====================================================================================
+🍄 Hongos y setas (ricos en proteína vegetal y micronutrientes)
+| Alimento   | Calorías | Proteínas | Carbohidratos | Grasas |
+| ---------- | -------- | --------- | ------------- | ------ |
+| Champiñón  | 22 kcal  | 3.1 g     | 3.3 g         | 0.3 g  |
+| Portobello | 22 kcal  | 3.0 g     | 3.9 g         | 0.3 g  |
+| Shiitake   | 34 kcal  | 2.2 g     | 6.8 g         | 0.5 g  |
+| Maitake    | 31 kcal  | 1.9 g     | 6.7 g         | 0.2 g  |
+| Enoki      | 37 kcal  | 2.7 g     | 7.8 g         | 0.3 g  |
+
+=====================================================================================
+🥔 Tubérculos y raíces
+| Alimento         | Calorías | Proteínas | Carbohidratos | Grasas |
+| ---------------- | -------- | --------- | ------------- | ------ |
+| Patata blanca    | 77 kcal  | 2 g       | 17 g          | 0.1 g  |
+| Boniato / camote | 86 kcal  | 1.6 g     | 20 g          | 0.1 g  |
+| Yuca / mandioca  | 160 kcal | 1.4 g     | 38 g          | 0.3 g  |
+| Zanahoria        | 41 kcal  | 0.9 g     | 9.6 g         | 0.2 g  |
+| Remolacha        | 43 kcal  | 1.6 g     | 9.6 g         | 0.2 g  |
+
+=====================================================================================
+🌿 Hierbas y especias (muy bajas en calorías, aportan micronutrientes y antioxidantes)
+| Alimento | Calorías | Proteínas | Carbohidratos | Grasas |
+| -------- | -------- | --------- | ------------- | ------ |
+| Perejil  | 36 kcal  | 3 g       | 6 g           | 0.8 g  |
+| Cilantro | 23 kcal  | 2.1 g     | 3.7 g         | 0.5 g  |
+| Albahaca | 22 kcal  | 3.2 g     | 2.7 g         | 0.6 g  |
+| Tomillo  | 101 kcal | 5.6 g     | 24 g          | 1.7 g  |
+| Orégano  | 265 kcal | 9 g       | 69 g          | 4 g    |
+
+=====================================================================================
+🍄 Sustitutos de carne vegetal / proteína aislada
+| Alimento          | Calorías | Proteínas | Carbohidratos | Grasas |
+| ----------------- | -------- | --------- | ------------- | ------ |
+| Soja texturizada  | 336 kcal | 52 g      | 33 g          | 0.5 g  |
+| Seitan            | 370 kcal | 75 g      | 14 g          | 1.9 g  |
+| Proteína guisante | 370 kcal | 80 g      | 7 g           | 4 g    |
+| Proteína arroz    | 360 kcal | 80 g      | 5 g           | 3 g    |
+
+=====================================================================================
+🌊 Algas y productos marinos vegetales
+| Alimento          | Calorías | Proteínas | Carbohidratos | Grasas |
+| ----------------- | -------- | --------- | ------------- | ------ |
+| Nori (seco)       | 35 kcal  | 5 g       | 5 g           | 0.3 g  |
+| Wakame            | 45 kcal  | 3 g       | 9 g           | 0.5 g  |
+| Kombu             | 43 kcal  | 1.7 g     | 9.6 g         | 0.2 g  |
+| Arame             | 45 kcal  | 2 g       | 10 g          | 0.2 g  |
+| Dulse             | 40 kcal  | 5 g       | 5 g           | 0.5 g  |
+| Espirulina (seca) | 290 kcal | 57 g      | 24 g          | 7 g    |
+| Chlorella (seca)  | 300 kcal | 58 g      | 15 g          | 7 g    |
+
+=====================================================================================
+🥑 Aceites y grasas saludables
+| Alimento                     | Calorías | Proteínas | Carbohidratos | Grasas |
+| ---------------------------- | -------- | --------- | ------------- | ------ |
+| Aceite de oliva virgen extra | 884 kcal | 0 g       | 0 g           | 100 g  |
+| Aceite de coco               | 862 kcal | 0 g       | 0 g           | 100 g  |
+| Aceite de sésamo             | 884 kcal | 0 g       | 0 g           | 100 g  |
+| Aceite de girasol            | 884 kcal | 0 g       | 0 g           | 100 g  |
+| Aceite de linaza             | 884 kcal | 0 g       | 0 g           | 100 g  |
+| Aceite de aguacate           | 884 kcal | 0 g       | 0 g           | 100 g  |
+| Mantequilla de almendra      | 614 kcal | 21 g      | 19 g          | 55 g   |
+| Mantequilla de cacahuete     | 588 kcal | 25 g      | 20 g          | 50 g   |
+| Tahini (pasta de sésamo)     | 595 kcal | 17 g      | 17 g          | 53 g   |
