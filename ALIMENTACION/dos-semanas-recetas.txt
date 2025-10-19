@@ -1,3 +1,6 @@
+===============================================================================
+===============================================================================
+
 🗓️ DÍA 1
 *******************************************************************************
   Desayuno:
@@ -223,72 +226,97 @@
   Snack:
   Batido de frutas y avena.
   
+
 ===============================================================================
+===============================================================================
+
 
 *******************************************************************************
 🛒 LISTA DE LA COMPRA (para las 2 semanas)
 ******************************************************************************* 
 🥦 Verduras y hortalizas
-  Cebollas
-  Ajos
-  Zanahorias
-  Calabacines
-  Berenjenas
-  Pimientos (rojo, verde, amarillo)
-  Espinacas frescas
-  Tomates
-  Lechugas, rúcula, brotes verdes
-  Calabaza
-  Brócoli
-  Pepino
-  Patata y boniato
+| Producto                   | Cantidad total (aprox.)      |
+| -------------------------- | ---------------------------- |
+| Cebollas                   | 2 kg (8–10 medianas)         |
+| Ajos                       | 3 cabezas                    |
+| Zanahorias                 | 1,5 kg                       |
+| Calabacines                | 1,2 kg (4 medianos)          |
+| Berenjenas                 | 1 kg (2–3 unidades)          |
+| Pimientos (mezcla)         | 1,5 kg (5–6 unidades)        |
+| Espinacas frescas          | 800 g (puede ser congelada)  |
+| Tomates                    | 1,5 kg                       |
+| Lechugas / rúcula / brotes | 500–600 g (2 bolsas grandes) |
+| Calabaza                   | 1,5 kg                       |
+| Brócoli                    | 800 g (2 cabezas medianas)   |
+| Pepino                     | 2 unidades                   |
+| Patatas                    | 2 kg                         |
+| Boniato (batata)           | 1 kg                         |
 
 🍎 Frutas
-  Plátanos
-  Manzanas
-  Peras
-  Frutos rojos (frescos o congelados)
-  Mango / piña (opcional)
-  Naranjas / kiwis / uvas
+| Producto                            | Cantidad total (aprox.)               |
+| ----------------------------------- | ------------------------------------- |
+| Plátanos                            | 14–16 unidades (1 al día por persona) |
+| Manzanas                            | 10–12 unidades                        |
+| Peras                               | 6 unidades                            |
+| Frutos rojos (frescos o congelados) | 500 g                                 |
+| Mango / piña                        | 1 grande o 400 g congelado            |
+| Naranjas / kiwis / uvas             | 1 kg combinado                        |
 
 🌾 Cereales e hidratos
-  Avena
-  Pan integral
-  Pasta integral
-  Arroz integral o basmati
-  Couscous integral
-  Quinoa
-  Tortillas de maíz o trigo
+| Producto                  | Cantidad total (aprox.)                 |
+| ------------------------- | --------------------------------------- |
+| Avena                     | 1 kg                                    |
+| Pan integral              | 1,5–2 kg (4 barras o 2 bolsas de molde) |
+| Pasta integral            | 1,2–1,5 kg                              |
+| Arroz integral o basmati  | 1,2–1,5 kg                              |
+| Couscous integral         | 500 g                                   |
+| Quinoa                    | 800 g                                   |
+| Tortillas de maíz o trigo | 12–16 unidades                          |
 
 🥜 Proteínas vegetales
-  Tofu firme y blando
-  Soja texturizada
-  Hummus (o garbanzos cocidos para triturar)
-  Lentejas cocidas
-  Tempeh (opcional)
-  Yogures vegetales (soja, avena o coco)
+| Producto                     | Cantidad total (aprox.)                      |
+| ---------------------------- | -------------------------------------------- |
+| Tofu firme                   | 1,2–1,4 kg (6 bloques de 200–250 g)          |
+| Tofu blando o sedoso         | 400 g                                        |
+| Soja texturizada             | 400 g seca (rinde mucho al hidratarse)       |
+| Hummus (o garbanzos cocidos) | 1,2 kg hummus o 3 botes (400 g) de garbanzos |
+| Lentejas cocidas             | 3 botes (400 g cada uno) o 1 kg cocidas      |
+| Tempeh (opcional)            | 400 g                                        |
+| Yogures vegetales            | 14–16 unidades (1 al día por persona)        |
 
 🌰 Frutos secos y semillas
-  Almendras
-  Nueces
-  Semillas de chía
-  Semillas de lino
-  Semillas de sésamo
-  Mantequilla de cacahuete o de almendra
+| Producto                            | Cantidad total (aprox.)     |
+| ----------------------------------- | --------------------------- |
+| Almendras                           | 300 g                       |
+| Nueces                              | 300 g                       |
+| Semillas de chía                    | 150 g                       |
+| Semillas de lino molido             | 150 g                       |
+| Semillas de sésamo                  | 100 g                       |
+| Mantequilla de cacahuete o almendra | 400–500 g (1 frasco grande) |
 
 🧂 Condimentos y extras
-  Aceite de oliva virgen extra
-  Salsa de soja
-  Tahini
-  Levadura nutricional
-  Especias: cúrcuma, pimentón, curry, comino, orégano, albahaca, pimienta, canela
-  Limón, vinagre, sal marina
+| Producto                     | Cantidad total (aprox.)                       |
+| ---------------------------- | --------------------------------------------- |
+| Aceite de oliva virgen extra | 750 ml – 1 L                                  |
+| Salsa de soja                | 250 ml                                        |
+| Tahini                       | 250 g                                         |
+| Levadura nutricional         | 100 g                                         |
+| Especias variadas            | Al gusto (1 sobre o bote pequeño de cada una) |
+| Limones frescos              | 6–8 unidades                                  |
+| Vinagre (de manzana o vino)  | 250 ml                                        |
+| Sal marina                   | 500 g                                         |
 
 🥤 Bebidas recomendadas
-  Agua (mínimo 2–2,5 L diarios).
-  Infusiones (manzanilla, té verde, rooibos).
-  Café con moderación.
-  Batidos naturales con bebida vegetal.
+| Producto                                  | Cantidad total (aprox.)                                    |
+| ----------------------------------------- | ---------------------------------------------------------- |
+| Bebidas vegetales (soja, avena, almendra) | 6–8 L en total                                             |
+| Café / té / infusiones                    | A gusto                                                    |
+| Agua                                      | Del grifo o embotellada (mínimo 2–2,5 L por persona y día) |
+
+✅ Divide la compra en dos tandas (semana 1 y semana 2) para que la fruta y verdura estén más frescas.
+✅ Congela tofu, lentejas o verduras si ves que se acumulan.
+✅ Prepara el arroz, quinoa o pasta cada 3–4 días para tener base lista.
+✅ Mantén snacks saludables (fruta, frutos secos, hummus) siempre a mano.
 
 
 ******************************************************************************* 
